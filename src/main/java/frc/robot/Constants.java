@@ -22,8 +22,8 @@ public final class Constants {
     public static final class Controls{
         public static final int JOYSTICK_USB = 0;
         public static final int JOYSTICK_FIRE = 1;
-        public static final int JOYSTICK_UP = 3;
-        public static final int JOYSTICK_DN = 4;
+        public static final int JOYSTICK_UP = 4;
+        public static final int JOYSTICK_DN = 3;
     }
     public static final class Pneumatics{
         public static final int PNEUMATICS_LIFTER_UP = 0;
