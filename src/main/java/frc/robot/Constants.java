@@ -16,7 +16,7 @@ public final class Constants {
     public static final class Drivetrain{
         public static final int PWM_L1 = 0;
         public static final int PWM_L2 = 1;
-        public static final int PWM_R1 = 4;
+        public static final int PWM_R1 = 4;//2
         public static final int PWM_R2 = 5;
     }
     public static final class Controls{
